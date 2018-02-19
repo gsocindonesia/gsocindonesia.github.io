@@ -26,10 +26,10 @@ ______________________________
 
 ## Coach Anda
 
-| | [Dody Qori Utama](https://www.linkedin.com/in/dody-qori-utama-61938348/) |
+| ![Dody](dody75.jpg) | [Dody Qori Utama](https://www.linkedin.com/in/dody-qori-utama-61938348/) |
 | ![John](john75.jpg) | [John Mark Vandenberg](https://github.com/jayvdb) |
-| | [Hendy Irawan](https://instagram.com/ceefour666) |
-| | [Ade Romadhony](https://www.linkedin.com/in/ade-romadhony-8a302668/) |
+| ![Hendy](hendy75.jpg) | [Hendy Irawan](https://instagram.com/ceefour666) |
+| ![Ade](ade75.jpg) | [Ade Romadhony](https://www.linkedin.com/in/ade-romadhony-8a302668/) |
 
 ## Ingin Tahu Lebih Lanjut?
 
