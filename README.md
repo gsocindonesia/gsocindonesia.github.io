@@ -16,10 +16,7 @@
 
 _______________________________
 
-📢 Yuk gabung di LINE Group Coaching: (max 24 Feb 2018)
-
-👉 http://gsocindonesia.github.io
-💬 https://line.me/ti/g/-t_sKxNHNu
+📢 Yuk gabung di [💬 **LINE Group Coaching**](https://line.me/ti/g/-t_sKxNHNu)
 
 ______________________________
 
