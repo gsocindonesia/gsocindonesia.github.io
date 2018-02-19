@@ -24,6 +24,13 @@ ______________________________
 
 💡 Terbuka untuk mahasiswa Telkom University semua strata, semua jurusan
 
+## Coach Anda
+
+* [Dody Qori Utama](https://www.linkedin.com/in/dody-qori-utama-61938348/)
+* [John Mark Vandenberg](https://github.com/jayvdb)
+* [Hendy Irawan](https://instagram.com/ceefour666)
+* [Ade Romadhony](https://www.linkedin.com/in/ade-romadhony-8a302668/)
+
 ## Ingin Tahu Lebih Lanjut?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YN7uGCg5vLg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
