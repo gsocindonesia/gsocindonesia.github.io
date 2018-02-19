@@ -1,4 +1,4 @@
-# Coaching Google Summer of Code dan Kerja Praktik 2018
+🎉 Coaching Google Summer of Code & Kerja Praktik 2018 🎉
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S6IP_6HG2QE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
