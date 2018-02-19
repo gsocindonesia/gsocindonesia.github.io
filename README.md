@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Coaching Google Summer of Code dan Kerja Praktik 2018
 
-You can use the [editor on GitHub](https://github.com/gsocindonesia/gsocindonesia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+🤔 Apa sih Google Summer of Code? Mau tau benefitnya buat kamu?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+🤔 Ingin berkarya di software open source yang populer digunakan?
 
-### Markdown
+🤔 Ingin berkolaborasi bersama organisasi pengembang open source?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+🤔 Ingin portfolio CV kamu mencantumkan “alumni Google Summer of Code”?
 
-```markdown
-Syntax highlighted code block
+🤔 Buat kamu yang mau KP, ingin tahu caranya ikut Google Summer of Code sekaligus jadi KP?
 
-# Header 1
-## Header 2
-### Header 3
+🤔 Ingin berpartisipasi di kegiatan internasional tahunan dari Google dan mendapatkan tunjangan USD $2,400 ? 🤑
 
-- Bulleted
-- List
+🤔 Mau coaching full konsumsi snack? 😋
 
-1. Numbered
-2. List
+_______________________________
 
-**Bold** and _Italic_ and `Code` text
+📢 Yuk gabung di LINE Group Coaching: (max 24 Feb 2018)
 
-[Link](url) and ![Image](src)
-```
+👉 http://gsocindonesia.github.io
+💬 https://line.me/ti/g/-t_sKxNHNu
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+______________________________
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gsocindonesia/gsocindonesia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+💡 Terbuka untuk mahasiswa Telkom University semua strata, semua jurusan
