@@ -36,3 +36,7 @@ ______________________________
 Boleh juga lho nambah teman-teman lainnya dari seluruh Indonesia di [Facebook Group Google Summer of Code Indonesia](https://www.facebook.com/groups/gsoc.indonesia) !
 
 Kamu juga bisa mengunjungi website resmi [**Google Summer of Code**](https://summerofcode.withgoogle.com/) untuk keterangan lengkap dari Google mengenai kegiatan ini.
+
+## Pertanyaan & Jawaban (FAQ)
+
+Lihat halaman [**Pertanyaan & Jawaban (FAQ)**](faq).
