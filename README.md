@@ -20,7 +20,7 @@ _______________________________
 
 ______________________________
 
-💡 Terbuka untuk mahasiswa Telkom University semua strata, semua jurusan
+💡 Terbuka untuk mahasiswa [Telkom University](http://telkomuniversity.ac.id/) semua strata, semua jurusan
 
 ## Coach Anda
 
