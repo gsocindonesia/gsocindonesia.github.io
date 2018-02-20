@@ -4,9 +4,7 @@
 
 🤔 Apa sih Google Summer of Code? Mau tau benefitnya buat kamu?
 
-🤔 Ingin berkarya di software open source yang populer digunakan?
-
-🤔 Ingin berkolaborasi bersama organisasi pengembang open source?
+🤔 Ingin belajar bagaimana pengembang software dari berbagai latar belakang dapat berkolaborasi?
 
 🤔 Ingin portfolio CV kamu mencantumkan “alumni Google Summer of Code”?
 
