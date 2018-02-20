@@ -33,7 +33,7 @@
 
 6. Wisnu Adi Nurcahyo / Dedet / Yuwantoro: Apa ada pertemuan (meet & greet) untuk coaching ini?
 
-   Hendy: TODO
+   Hendy: In syaa Allah ada Meet & Greet dan teman-teman dapat bertemu dengan para coach dan bertanya apa saja. Sedang direncanakan, Stay tuned! :)
    
 7. Erwin Kurniawan: ini pelatihannya dimana ya? Bandung kah?
 
