@@ -1,26 +1,26 @@
 # Questions & Answers (FAQ)
 
-1. Wisnu Adi Nurcahyo: We got $2,400 again this year?
-
-   Hendy: In syaa Allah untuk setiap peserta Google Summer of Code yang berhasil sampai selesai. Yang penting ilmu dan experiencenya, tunjangannya anggap aza bonus :)
-
-2. Wisnu Adi Nurcahyo / Dedet: Itu ada "Rekruitasi Asisten Coach" maksudya gimana, Pak?
-
-   Hendy: TODO
-   
-3. Yuwantoro: Ini terbuka untuk semua fakultas ?
-   
-   Danny: Semua jurusan lebih tepatnya aku rasa 😂
-
-4. Aya: kalau alumni yg baru lulus 2017 boleh gak ya?
-
-   Hendy: Google Summer of Code khusus mahasiswa aktif saja, kalau mau ikut, lanjut kuliah lagi :)
-
-5. Muh Ikdar Iksan / Rachmansyah Adi W. / Dedet / Muhammad Faisal: pelatihannya mekanismenya gimana ya?
+1. Muh Ikdar Iksan / Rachmansyah Adi W. / Dedet / Muhammad Faisal: pelatihannya mekanismenya gimana ya?
 
    Wisnu: GSoC itu bisa dibilang "magang" di organisasi open source. Dikasih upah sama Google kalau lolos evaluasi. Harus bisa apanya tergantung proyek yang diambil (atau yang diusung kalau mengajukan).
    
    Hendy: TODO
+
+2. Wisnu Adi Nurcahyo: We got $2,400 again this year?
+
+   Hendy: In syaa Allah untuk setiap peserta Google Summer of Code yang berhasil sampai selesai. Yang penting ilmu dan experiencenya, tunjangannya anggap aza bonus :)
+
+3. Wisnu Adi Nurcahyo / Dedet: Itu ada "Rekruitasi Asisten Coach" maksudya gimana, Pak?
+
+   Hendy: TODO
+   
+4. Yuwantoro: Ini terbuka untuk semua fakultas ?
+   
+   Danny: Semua jurusan lebih tepatnya aku rasa 😂
+
+5. Aya: kalau alumni yg baru lulus 2017 boleh gak ya?
+
+   Hendy: Google Summer of Code khusus mahasiswa aktif saja, kalau mau ikut, lanjut kuliah lagi :)
 
 6. Wisnu Adi Nurcahyo / Dedet / Yuwantoro: Apa ada pertemuan (meet & greet) untuk coaching ini?
 
