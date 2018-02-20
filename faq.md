@@ -4,7 +4,9 @@
 
    Wisnu: GSoC itu bisa dibilang "magang" di organisasi open source. Dikasih upah sama Google kalau lolos evaluasi. Harus bisa apanya tergantung proyek yang diambil (atau yang diusung kalau mengajukan).
    
-   Hendy: TODO
+   Hendy: Yup, dan coaching ini diselenggarakan oleh Telkom University untuk membantu adik-adik yang berminat ikut Google Summer of Code untuk mempersiapkan diri agar lancar dari proses seleksi sampai selesai (bagi yang lulus seleksi awal).
+   
+   Coaching dilakukan baik secara offline (sesi temu muka 1x seminggu) dan secara online melalui group LINE dan GitHub.
 
 2. Wisnu Adi Nurcahyo: We got $2,400 again this year?
 
@@ -12,7 +14,14 @@
 
 3. Wisnu Adi Nurcahyo / Dedet: Itu ada "Rekruitasi Asisten Coach" maksudya gimana, Pak?
 
-   Hendy: TODO
+   Hendy: Asisten Coach bertugas untuk:
+   
+   * Wajib submit proposal Google Summer of Code juga
+   * Memantau progress teman-teman lainnnya (idealnya rasio 1 asisten 5 peserta) dan menyampaikan kepada coach kesulitan2 yang dialami
+   
+   Asisten Coach berhak:
+   
+   * mendapatkan honor asisten
    
 4. Yuwantoro: Ini terbuka untuk semua fakultas ?
    
