@@ -60,11 +60,11 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
 
         **Mentors:**
 
-        1. Organization - Project: ... <email@address.com>
-        2. Organization - Project: ... <email@address.com>
-        3. Organization - Project: ... <email@address.com>
-        4. Organization - Project: ... <email@address.com>
-        5. Organization - Project: ... <email@address.com>
+        1. Organization - Project: Name <email@address.com>
+        2. Organization - Project: Name <email@address.com>
+        3. Organization - Project: Name <email@address.com>
+        4. Organization - Project: Name <email@address.com>
+        5. Organization - Project: Name <email@address.com>
 
         **Proposals:**
 
