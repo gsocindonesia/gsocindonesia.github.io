@@ -37,9 +37,7 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
 
 4. 🏷 **[Buat GitHub Issue di repository coaching2018](https://github.com/gsocindonesia/coaching2018/issues/new)** dengan format pengisian sebagai berikut:
 
-   Title: `{Nama Anda} - {Organisasi1 / Organisasi2 / Organisasi3}`
-   
-   (bila belum memilih organisasi, tulis nama saja)
+   Title: `{Nama Anda} - {Organisasi1 / Organisasi2 / Organisasi3}` (bila belum memilih organisasi, tulis nama saja)
    
    Template untuk body: (Edit bagian "Coach assistant". Untuk bagian lain, isi bila sudah diketahui, atau biarkan seperti template)
    
