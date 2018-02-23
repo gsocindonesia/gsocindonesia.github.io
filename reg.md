@@ -20,22 +20,22 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
 
 ## Cara Pendaftaran
 
-1. **[Join grup LINE Coaching](https://line.me/ti/g/-t_sKxNHNu)** (bila belum)
+1. 💬 **[Join grup LINE Coaching](https://line.me/ti/g/-t_sKxNHNu)** (bila belum)
      
-2. **Memiliki akun GitHub aktif** (bila belum, daftar di [GitHub.com](https://github.com))
+2. 🧐 **Memiliki akun GitHub aktif** (bila belum, daftar di [GitHub.com](https://github.com))
 
-3. **[Isi form pendaftaran](https://goo.gl/forms/6FZJHMid74SEmWi93)**
+3. 📜 **[Isi form pendaftaran](https://goo.gl/forms/6FZJHMid74SEmWi93)**
 
-4. Ketahui nama & username asisten coach Anda: (salah satu sesuai peminatan utama kamu)
+4. 😎 **Ketahui nama & username GitHub asisten coach kamu** (salah satu sesuai peminatan utama kamu)
 
    * **[@wisn](https://github.com/wisn) - Wisnu Adi Nurcahyo**: Programming Languages and Development Tools, Other, End User Applications
    * **[@bekicot](https://github.com/bekicot) - Yana Agun Siswanto**: Social / Communications, Web, Cloud
    * **[@probeadd](https://github.com/probeadd) - Satrio Adi Prabowo**: Graphics / Video / Audio / Virtual Reality, Operating Systems, Security
    * **[@ghaisani](https://github.com/ghaisani) - Febry Ghaisani**: Data and Databases, Science and Medicine
    
-   Bonus: Klik profilnya lalu _Follow_ ascoach kamu di GitHub
+   **Bonus:** Klik profilnya lalu _Follow_ ascoach kamu di GitHub
 
-4. **[Buat GitHub Issue di repository coaching2018](https://github.com/gsocindonesia/coaching2018/issues/new)** dengan format pengisian sebagai berikut:
+4. 🏷 **[Buat GitHub Issue di repository coaching2018](https://github.com/gsocindonesia/coaching2018/issues/new)** dengan format pengisian sebagai berikut:
 
    Title: `{Nama Anda} - {Organisasi1 / Organisasi2 / Organisasi3}`
    
@@ -85,7 +85,7 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
 
    Klik **Submit New Issue**
 
-_Alhamdulillah... That's it!_ Perkembangan selanjutnya akan kamu dapatkan melalui:
+_Alhamdulillah... That's it!_ 🎉 Perkembangan selanjutnya akan kamu dapatkan melalui:
 
-* Grup LINE Coaching GSoC & KP
-* Email notifikasi GitHub bila terjadi update pada Issue kamu (so, pastikan inbox email kamu aktif)
+* **Grup LINE Coaching GSoC & KP**
+* **Email notifikasi GitHub** bila terjadi update pada Issue kamu (so, pastikan inbox email kamu aktif)
