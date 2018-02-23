@@ -22,7 +22,7 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
 
 1. **[Join grup LINE Coaching](https://line.me/ti/g/-t_sKxNHNu)** (bila belum)
      
-2. **Memiliki akun GitHub aktif** (bila belum, daftar di https://github.com)
+2. **Memiliki akun GitHub aktif** (bila belum, daftar di [GitHub.com](https://github.com))
 
 3. **[Isi form pendaftaran](https://goo.gl/forms/6FZJHMid74SEmWi93)**
 
