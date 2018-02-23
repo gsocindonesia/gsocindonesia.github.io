@@ -1,6 +1,7 @@
 # Pendaftaran Coaching GSoC & KP 2018
 
 Google Summer of Code adalah semacam "magang online" di organisasi open source terpilih dan bagi peserta yang diterima seleksi akan mengerjakan proyeknya dari Mei-Agustus 2018 dan mendapatkan tunjangan dari Google.
+
 Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebagai KP oleh Fakultas Informatika. Untuk Fakultas lain silakan konsultasi dengan dosen pembimbing KP.
 
 ## Syarat mengikuti coaching
