@@ -16,7 +16,7 @@
 
 _______________________________
 
-> 📢 **Yuk gabung di** [💬 **LINE Group Coaching**](https://line.me/ti/g/-t_sKxNHNu)
+> 📢 **[Pendaftaran Coaching (paling lambat 3 Maret 2018)](reg)**
 
 ______________________________
 
@@ -31,7 +31,7 @@ ______________________________
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YN7uGCg5vLg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-> **Silakan bergabung di** [💬 **LINE Group Coaching**](https://line.me/ti/g/-t_sKxNHNu) **biar gak makin penasaran :)**
+> **[Pendaftaran Coaching (paling lambat 3 Maret 2018)](reg)**
 
 Boleh juga lho nambah teman-teman lainnya dari seluruh Indonesia di [Facebook Group Google Summer of Code Indonesia](https://www.facebook.com/groups/gsoc.indonesia) !
 
