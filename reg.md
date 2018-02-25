@@ -26,10 +26,11 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
 
 3. 😎 **Ketahui nama & username GitHub asisten coach kamu** (salah satu sesuai peminatan utama kamu)
 
-   * **[@wisn](https://github.com/wisn) - Wisnu Adi Nurcahyo**: Programming Languages and Development Tools, Other, End User Applications
+   * **[@wisn](https://github.com/wisn) - Wisnu Adi Nurcahyo**: Programming Languages and Development Tools, Other
    * **[@bekicot](https://github.com/bekicot) - Yana Agun Siswanto**: Social / Communications, Web, Cloud
-   * **[@probeadd](https://github.com/probeadd) - Satrio Adi Prabowo**: Graphics / Video / Audio / Virtual Reality, Operating Systems, Security
+   * **[@probeadd](https://github.com/probeadd) - Satrio Adi Prabowo**: Operating Systems, Security
    * **[@ghaisani](https://github.com/ghaisani) - Febry Ghaisani**: Data and Databases, Science and Medicine
+   * **[@afnizarnur](https://github.com/afnizarnur) - Afnizar Nur Ghifari**: Graphics / Video / Audio / Virtual Reality, End User Applications
    
    **Bonus:** Klik profilnya lalu _Follow_ ascoach kamu di GitHub
 
@@ -41,7 +42,7 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
    
    Template untuk body: (Edit bagian "Coach assistant". Untuk bagian lain, isi bila sudah diketahui, atau biarkan seperti template)
    
-        **Coach assistant:** @wisn / @bekicot / @probeadd / @ghaisani (hapus selain ascoach Anda)
+        **Coach assistant:** @wisn / @bekicot / @probeadd / @ghaisani / @afnizarnur (hapus selain ascoach Anda)
 
         **Sanity checks:**
 
