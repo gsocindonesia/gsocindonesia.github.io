@@ -26,13 +26,15 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
 
 3. 😎 **Ketahui nama & username GitHub asisten coach kamu** (salah satu sesuai peminatan utama kamu)
 
-   * **[@wisn](https://github.com/wisn) - Wisnu Adi Nurcahyo**: Programming Languages and Development Tools, Other
-   * **[@bekicot](https://github.com/bekicot) - Yana Agun Siswanto**: Social / Communications, Web, Cloud
-   * **[@probeadd](https://github.com/probeadd) - Satrio Adi Prabowo**: Operating Systems, Security
-   * **[@ghaisani](https://github.com/ghaisani) - Febry Ghaisani**: Data and Databases, Science and Medicine
-   * **[@afnizarnur](https://github.com/afnizarnur) - Afnizar Nur Ghifari**: Graphics / Video / Audio / Virtual Reality, End User Applications
+   | 😏                            | Nama            | GitHub                                | Bidang                                                | 
+   |---------------------------------------|-----------------|---------------------------------------|-------------------------------------------------------|
+   | ![ascoach](telkomuniversity-2018/wisn75.jpg) | **Wisnu Adi Nurcahyo** | [@wisn](https://github.com/wisn) | Programming Languages and Development Tools, Other |
+   | ![ascoach](telkomuniversity-2018/bekicot75.jpg) | **Yana Agun Siswanto** | [@bekicot](https://github.com/bekicot) | Social / Communications, Web, Cloud |
+   | ![ascoach](telkomuniversity-2018/probeadd75.jpg) | **Satrio Adi Prabowo** | [@probeadd](https://github.com/probeadd) | Operating Systems, Security |
+   | ![ascoach](telkomuniversity-2018/ghaisani75.jpg) | **Febry Ghaisani** | [@ghaisani](https://github.com/ghaisani) | Data and Databases, Science and Medicine |
+   | ![ascoach](telkomuniversity-2018/afnizarnur75.jpg) | **Afnizar Nur Ghifari** | [@afnizarnur](https://github.com/afnizarnur) | Graphics / Video / Audio / Virtual Reality, End User Applications |
    
-   **Bonus:** Klik profilnya lalu _Follow_ ascoach kamu di GitHub
+   **Bonus:** Klik profil GitHubnya lalu _Follow_ para ascoach di GitHub
 
 4. 📜 **[Isi form pendaftaran](https://goo.gl/forms/6FZJHMid74SEmWi93)**
 
