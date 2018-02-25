@@ -24,7 +24,7 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
      
 2. 🧐 **Memiliki akun GitHub aktif** (bila belum, daftar di [GitHub.com](https://github.com))
 
-3. 😎 **Ketahui nama & username GitHub asisten coach kamu** (salah satu sesuai peminatan utama kamu)
+3. 😎 **Ketahui nama & username GitHub asisten coach kamu** (salah satu sesuai peminatan utama kamu, atau boleh juga pilih sendiri ascoach favorit kamu)
 
    | 😏                            | Nama            | GitHub                                | Bidang                                                | 
    |---------------------------------------|-----------------|---------------------------------------|-------------------------------------------------------|
@@ -40,7 +40,7 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
 
 5. 🏷 **[Buat GitHub Issue di repository coaching2018](https://github.com/gsocindonesia/coaching2018/issues/new)** dengan format pengisian sebagai berikut:
 
-   Title: `{Nama Anda} - {Organisasi1 / Organisasi2 / Organisasi3}` (bila belum memilih organisasi, tulis nama saja)
+   Title: `Nama Anda - Organisasi1 / Organisasi2 / Organisasi3` (bila belum memilih organisasi, tulis nama Anda saja)
    
    Template untuk body: (Edit bagian "Coach assistant". Untuk bagian lain, isi bila sudah diketahui, atau biarkan seperti template)
    
