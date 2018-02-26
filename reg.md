@@ -10,13 +10,13 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
 
   Belum yakin? Kamu boleh banget curhat dulu dengan salah satu ascoach favorit kamu yang ganteng dan cantik ini...
   
-   | 😏                            | Ascoach            | LINE | Bidang                                                | 
+   | 😏                            | Ascoach            | ![LINE](icons8-line-32.png) | Bidang                                                | 
    |---------------------------------------|-----------------|-------------------------------------------------------|
-   ![ascoach](telkomuniversity-2018/wisn75.jpg) | **Wisnu Adi Nurcahyo** | ![LINE](icons8-line-32.png) [wisn98](https://line.me/ti/p/wisn98) | Programming Languages and Development Tools, Other |
-   ![ascoach](telkomuniversity-2018/bekicot75.jpg) | **Yana Agun Siswanto** | ![LINE](icons8-line-32.png) [yana.dev](https://line.me/ti/p/yana.dev) | Social / Communications, Web, Cloud |
-   ![ascoach](telkomuniversity-2018/probeadd75.jpg) | **Satrio Adi Prabowo** | ![LINE](icons8-line-32.png) [satrioadip](https://line.me/ti/p/satrioadip) | Operating Systems, Security |
-   ![ascoach](telkomuniversity-2018/ghaisani75.jpg) | **Febry Ghaisani** | ![LINE](icons8-line-32.png) [febry.ghaisani](https://line.me/ti/p/febry.ghaisani) | Data and Databases, Science and Medicine |
-   ![ascoach](telkomuniversity-2018/afnizarnur75.jpg) | **Afnizar Nur Ghifari** | ![LINE](icons8-line-32.png) [afnizarnur](https://line.me/ti/p/afnizarnur) | Graphics / Video / Audio / Virtual Reality, End User Applications |
+   ![ascoach](telkomuniversity-2018/wisn75.jpg) | **Wisnu Adi Nurcahyo** | [wisn98](https://line.me/ti/p/wisn98) | Programming Languages and Development Tools, Other |
+   ![ascoach](telkomuniversity-2018/bekicot75.jpg) | **Yana Agun Siswanto** | [yana.dev](https://line.me/ti/p/yana.dev) | Social / Communications, Web, Cloud |
+   ![ascoach](telkomuniversity-2018/probeadd75.jpg) | **Satrio Adi Prabowo** | [satrioadip](https://line.me/ti/p/satrioadip) | Operating Systems, Security |
+   ![ascoach](telkomuniversity-2018/ghaisani75.jpg) | **Febry Ghaisani** | [febry.ghaisani](https://line.me/ti/p/febry.ghaisani) | Data and Databases, Science and Medicine |
+   ![ascoach](telkomuniversity-2018/afnizarnur75.jpg) | **Afnizar Nur Ghifari** | [afnizarnur](https://line.me/ti/p/afnizarnur) | Graphics / Video / Audio / Virtual Reality, End User Applications |
   
    "Bidang" tidak mengikat, silakan ngobrol dengan ascoach yang paling nyaman buat kamu.
    
