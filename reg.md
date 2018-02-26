@@ -29,10 +29,10 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
    | 😏                            | Nama            | GitHub                                | Bidang                                                | 
    |---------------------------------------|-----------------|---------------------------------------|-------------------------------------------------------|
    ![ascoach](telkomuniversity-2018/wisn75.jpg) | **Wisnu Adi Nurcahyo** ![LINE](icons8-line-32.png) [wisn98](https://line.me/ti/p/wisn98) | [@wisn](https://github.com/wisn) | Programming Languages and Development Tools, Other |
-   | ![ascoach](telkomuniversity-2018/bekicot75.jpg) | **Yana Agun Siswanto**  | [@bekicot](https://github.com/bekicot) | Social / Communications, Web, Cloud |
-   | ![ascoach](telkomuniversity-2018/probeadd75.jpg) | **Satrio Adi Prabowo**  ![LINE](icons8-line-32.png) [satrioadip](https://line.me/ti/p/satrioadip) | [@probeadd](https://github.com/probeadd) | Operating Systems, Security |
-   | ![ascoach](telkomuniversity-2018/ghaisani75.jpg) | **Febry Ghaisani** ![LINE](icons8-line-32.png) [febry.ghaisani](https://line.me/ti/p/febry.ghaisani) | [@ghaisani](https://github.com/ghaisani) | Data and Databases, Science and Medicine |
-   | ![ascoach](telkomuniversity-2018/afnizarnur75.jpg) | **Afnizar Nur Ghifari** ![LINE](icons8-line-32.png) [afnizarnur](https://line.me/ti/p/afnizarnur) | [@afnizarnur](https://github.com/afnizarnur) | Graphics / Video / Audio / Virtual Reality, End User Applications |
+   ![ascoach](telkomuniversity-2018/bekicot75.jpg) | **Yana Agun Siswanto**  | [@bekicot](https://github.com/bekicot) | Social / Communications, Web, Cloud |
+   ![ascoach](telkomuniversity-2018/probeadd75.jpg) | **Satrio Adi Prabowo**  ![LINE](icons8-line-32.png) [satrioadip](https://line.me/ti/p/satrioadip) | [@probeadd](https://github.com/probeadd) | Operating Systems, Security |
+   ![ascoach](telkomuniversity-2018/ghaisani75.jpg) | **Febry Ghaisani** ![LINE](icons8-line-32.png) [febry.ghaisani](https://line.me/ti/p/febry.ghaisani) | [@ghaisani](https://github.com/ghaisani) | Data and Databases, Science and Medicine |
+   ![ascoach](telkomuniversity-2018/afnizarnur75.jpg) | **Afnizar Nur Ghifari** ![LINE](icons8-line-32.png) [afnizarnur](https://line.me/ti/p/afnizarnur) | [@afnizarnur](https://github.com/afnizarnur) | Graphics / Video / Audio / Virtual Reality, End User Applications |
    
    **Bonus:** Klik profil GitHubnya lalu _Follow_ para ascoach di GitHub
 
