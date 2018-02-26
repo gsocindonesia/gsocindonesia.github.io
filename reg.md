@@ -8,7 +8,7 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
 
 * Mengetahui apa itu [Google Summer of Code](/) dan benefitnya bagi Anda.
 
-  Belum yakin? Kamu boleh banget curhat dulu dengan salah satu ascoach favorit kamu yang ganteng dan cantik ini...
+  Masih galau mau ikut apa nggak? Kamu boleh banget curhat dulu dengan salah satu ascoach favorit kamu yang ganteng dan cantik ini...
   
    | 😏                            | Ascoach            | ![LINE](icons8-line-32.png) | Bidang                                                | 
    |---------------------------------------|-----------------|-------------------------------------------------------|
