@@ -10,7 +10,7 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
 
   Belum yakin? Kamu boleh banget curhat dulu dengan salah satu ascoach favorit kamu yang ganteng dan cantik ini...
   
-   | 😏                            | Nama            | LINE | Bidang                                                | 
+   | 😏                            | Ascoach            | LINE | Bidang                                                | 
    |---------------------------------------|-----------------|-------------------------------------------------------|
    ![ascoach](telkomuniversity-2018/wisn75.jpg) | **Wisnu Adi Nurcahyo** | ![LINE](icons8-line-32.png) [wisn98](https://line.me/ti/p/wisn98) | Programming Languages and Development Tools, Other |
    ![ascoach](telkomuniversity-2018/bekicot75.jpg) | **Yana Agun Siswanto** | ![LINE](icons8-line-32.png) [yana.dev](https://line.me/ti/p/yana.dev) | Social / Communications, Web, Cloud |
@@ -36,7 +36,7 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
 
 3. 😎 **Ketahui nama & username GitHub asisten coach kamu** (salah satu sesuai peminatan utama kamu, atau boleh juga pilih sendiri ascoach favorit kamu)
 
-   | 😏                            | Nama            | GitHub                                | Bidang                                                | 
+   | 😏                            | Ascoach            | GitHub                                | Bidang                                                | 
    |---------------------------------------|-----------------|---------------------------------------|-------------------------------------------------------|
    ![ascoach](telkomuniversity-2018/wisn75.jpg) | **Wisnu Adi Nurcahyo** ![LINE](icons8-line-32.png) [wisn98](https://line.me/ti/p/wisn98) | [@wisn](https://github.com/wisn) | Programming Languages and Development Tools, Other |
    ![ascoach](telkomuniversity-2018/bekicot75.jpg) | **Yana Agun Siswanto** ![LINE](icons8-line-32.png) [yana.dev](https://line.me/ti/p/yana.dev)  | [@bekicot](https://github.com/bekicot) | Social / Communications, Web, Cloud |
