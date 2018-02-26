@@ -9,9 +9,9 @@ Harapannya, dapat dijadikan pedoman dan perbaikan untuk program-program angkatan
 
 **Jumat, 15 Februari 2018:** Hendy melakukan survei ke beberapa mahasiswa untuk menentukan jadwal yang kira-kira pas untuk acara sosialisasi. Dari hasil survei dipilihlah hari Sabtu pukul 14:30-15:30, tanggal tentatif (antara 24 Feb 2018 atau 3 Maret 2018 tergantung respons mahasiswa).
 
-**Minggu, 18 Februari 2018:** Pak Said mengabari bahwa Pak Wadek I setuju bahwa GSoC dapat dianggap KP. Perlu didetailkan mekanismenya. Satrio Adi Prabowo bersedia jadi ascoach ke-1. LINE Group Coaching dibuat dengan anggota group Hendy dan mas Satrio. Sebenarnya untuk Google Summer of Code, media yang lebih tepat adalah Telegram, Gitter, atau Slack. Namun, media LINE Group dipilih dengan pertimbangan bahwa mayoritas mahasiswa Telkom University memiliki LINE dan nyaman/familiar dengan LINE. Berkaca dari interaksi [Facebook Group Google Summer of Code Indonesia](https://web.facebook.com/groups/gsoc.indonesia/) yang rendah, maka penggunaan Facebook Group ini di-skip sama sekali (setidaknya pada tahap ini).
+**Minggu, 18 Februari 2018:** Pak Said mengabari bahwa Pak Wadek I setuju bahwa GSoC dapat dianggap KP. Perlu didetailkan mekanismenya. Satrio Adi Prabowo bersedia jadi ascoach ke-1. LINE Group Coaching dibuat dengan anggota group Hendy dan mas Satrio (kenapa? cek bagian "Program Design Decisions"). Pak Dody Qori Utama bersedia menjadi coach.
 
-**Senin sore, 19 Februari 2018:** Hendy dan Pak Said bertemu Pak Indra Lukmana Sardi (Kemahasiswaan S1 IF) mengajukan draft proposal program. Secara informal Pak Indra setuju, dan akan dibantu untuk sosialisasi (via LINE channel LAAK S1IF dan Facebook HIC), gedung, konsumsi, perizinan, dan fee pembicara external yaitu John Mark Vandenberg.
+**Senin sore, 19 Februari 2018:** Hendy dan Pak Said bertemu Pak Indra Lukmana Sardi (Kemahasiswaan S1 IF) mengajukan draft proposal program. Secara informal Pak Indra setuju, dan akan dibantu untuk sosialisasi (via LINE channel LAAK S1IF dan Facebook HIC), gedung, konsumsi, perizinan, dan fee pembicara external yaitu John Mark Vandenberg. Bu Ade Romadhony bersedia menjadi coach.
 
 **Selasa sore, 20 Februari 2018:** Hendy mengirimkan draft flyer sosialisasi awal, dan setelah revisi dari Pak Said (istilah yang awalnya terlalu teknis, kekhawatirannya mahasiswa takut duluan, direvisi menjadi lebih _friendly_) maka disebarkan oleh Pak Indra melalui LINE LAAK S1IF dan Facebook HIC. Hari ini ada sekitar 100 mahasiswa yang join. Wisnu Adi Nurcahyo bersedia jadi ascoach ke-2.
 
@@ -51,6 +51,8 @@ Harapannya, dapat dijadikan pedoman dan perbaikan untuk program-program angkatan
 **Menggandeng assistant coach:** Mengurangi beban dosen (yang secara ekonomis nyaris murni relawan 😅), meningkatkan _sense of responsibility_ mahasiswa, dan memberikan insentif bagi mahasiswa untuk berkomitmen dengan program ini, insentif dalam bentuk honor dan lunch juga pengakuan. Asumsi lagi, bahwa mahasiswa akan lebih nyaman berkomunikasi dengan ascoach yang sesama mahasiswa, dibanding dengan dosen.
 
 **Insentif untuk peserta coaching:** Snack selama coaching, dan proyek GSoC dianggap KP. Meski begitu, ternyata peminat dari selain tahun KP juga cukup signifikan.
+
+**LINE Group:** Sebenarnya untuk Google Summer of Code, media yang lebih tepat adalah Telegram, Gitter, atau Slack. Namun, media LINE Group dipilih dengan pertimbangan bahwa mayoritas mahasiswa Telkom University memiliki LINE dan nyaman/familiar dengan LINE. Berkaca dari interaksi [Facebook Group Google Summer of Code Indonesia](https://web.facebook.com/groups/gsoc.indonesia/) yang rendah, maka penggunaan Facebook Group ini di-skip sama sekali (setidaknya pada tahap awal).
 
 ## Meet & Greet Stats
 
