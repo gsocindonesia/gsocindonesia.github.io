@@ -28,7 +28,7 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
 
    | 😏                            | Nama            | GitHub                                | Bidang                                                | 
    |---------------------------------------|-----------------|---------------------------------------|-------------------------------------------------------|
-   | ![ascoach](telkomuniversity-2018/wisn75.jpg) | **Wisnu Adi Nurcahyo** | [@wisn](https://github.com/wisn) | Programming Languages and Development Tools, Other |
+   | ![ascoach](telkomuniversity-2018/wisn75.jpg) | **Wisnu Adi Nurcahyo** ![LINE](icons8-line-32.png) [wisn98](https://line.me/ti/p/wisn98) | [@wisn](https://github.com/wisn) | Programming Languages and Development Tools, Other |
    | ![ascoach](telkomuniversity-2018/bekicot75.jpg) | **Yana Agun Siswanto** | [@bekicot](https://github.com/bekicot) | Social / Communications, Web, Cloud |
    | ![ascoach](telkomuniversity-2018/probeadd75.jpg) | **Satrio Adi Prabowo** | [@probeadd](https://github.com/probeadd) | Operating Systems, Security |
    | ![ascoach](telkomuniversity-2018/ghaisani75.jpg) | **Febry Ghaisani** | [@ghaisani](https://github.com/ghaisani) | Data and Databases, Science and Medicine |
