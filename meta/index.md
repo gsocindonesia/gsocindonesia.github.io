@@ -19,11 +19,20 @@ Harapannya, dapat dijadikan pedoman dan perbaikan untuk program-program angkatan
 
 **Rabu malam, 21 Feb 2018:** John confirmed dapat hadir untuk Sabtu 24 Feb 2018 14:30-15:30. 
 
-**Kamis, 22 Feb 2018:** Pak Indra confirmed venue adalah Gedung Damar (K) dengan kapasitas 300 orang. Malamnya: Flyer untuk acara Meet & Greet disebarkan. Dalam 2 jam, sekitar 50 mahasiswa mendaftar. Yana Agun Siswanto bersedia jadi ascoach ke-3.
+**Kamis, 22 Feb 2018:** Pak Indra confirmed venue adalah Gedung Damar (K) dengan kapasitas 300 orang. Malamnya: Flyer untuk acara Meet & Greet disebarkan. Dalam 2 jam, sekitar 50 mahasiswa mendaftar. Yana Agun Siswanto bersedia jadi ascoach ke-3. Pembagian ascoach untuk kepanitiaan Meet & Greet:
 
-**Jumat, 23 Feb 2018:** Flyer Meet & Greet disebarkan melalui LINE group LAAK S1IF. Febry Ghaisani confirmed sebagai ascoach ke-4.
+* Yana: Dokumentasi (fotografi), artikel bahasa Indonesia (untuk Kemahasiswaan dan FAST), artikel English (untuk Google)
+* Wisnu: Konsumsi lunch & snack bagi pemateri, ascoach, dan CS
+* Satrio: Perlengkapan, meja registrasi
 
-**Jumat sore, 23 Feb 2018:** Hendy menyiapkan form pendaftaran menggunakan Google Forms, template issue GitHub, dan halaman registrasi di website gsocindonesia.github.io.
+**Jumat, 23 Feb 2018:** Flyer Meet & Greet disebarkan melalui LINE group LAAK S1IF. Febry Ghaisani confirmed sebagai ascoach ke-4, sekaligus panitia Meet & Greet sebagai MC. Febry mengusulkan satu lagi MC, namun perkembangan selanjutnya temannya berhalangan hadir.
+
+**Jumat sore, 23 Feb 2018:** Hendy menyiapkan form pendaftaran menggunakan Google Forms, template issue GitHub, dan halaman registrasi di website gsocindonesia.github.io. Mas Wisnu sudah mengambil dana dari Bu Ami, namun besok sibuk kuliah sehingga tidak bisa menangani konsumsi. Hendy menyarankan mas Wisnu dan mas Satrio tukar responsibility.  Sehingga pembagian ascoach untuk kepanitiaan Meet & Greet:
+
+* Yana: Dokumentasi (fotografi), artikel bahasa Indonesia (untuk Kemahasiswaan dan FAST), artikel English (untuk Google), penunjuk kursi bagi peserta yang baru datang
+* Wisnu: Perlengkapan, meja registrasi
+* Satrio: Konsumsi lunch & snack, pembantu meja registrasi
+* Febry: MC, pembantu meja registrasi
 
 **Sabtu siang, 24 Feb 2018:** LINE group berisi ~480 mahasiswa + coaches/tim panitia. 319 mahasiswa mendaftar acara Meet&Greet, 211 mahasiswa hadir. Sekitar 50% yang hadir datang on-time dan sisanya datang mulai 14:30 hingga 15:00. Acara dimulai tepat 14:30, dibuka oleh Pak Said, dan "berakhir" pukul 15:35. Dilanjutkan dengan sesi QA hingga pukul 16:30.
 
