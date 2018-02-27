@@ -18,7 +18,7 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
    ![ascoach](telkomuniversity-2018/ghaisani75.jpg) | **Febry Ghaisani** | [febry.ghaisani](https://line.me/ti/p/febry.ghaisani) | Data and Databases |
    ![ascoach](telkomuniversity-2018/afnizarnur75.jpg) | **Afnizar Nur Ghifari** | [afnizarnur](https://line.me/ti/p/afnizarnur) | Graphics / Video / Audio / Virtual Reality, End User Applications |
    ![ascoach](telkomuniversity-2018/ridhofadilah75.jpg) | **Sayid Muhamad Ridho Fadilah** | [rdhofdlh](https://line.me/ti/p/rdhofdlh) |  |
-   ![ascoach](telkomuniversity-2018/undeground-1175.jpg) | **Iqbal Basyar** | [iqdy.underground](https://line.me/ti/p/iqdy.underground) |  |
+   ![ascoach](telkomuniversity-2018/underground-1175.jpg) | **Iqbal Basyar** | [iqdy.underground](https://line.me/ti/p/iqdy.underground) |  |
    ![ascoach](telkomuniversity-2018/NoveltyOFD75.jpg) | **Novelty Octaviani Faomasi Daeli** | [noveld](https://line.me/ti/p/noveld) |  |
    ![ascoach](telkomuniversity-2018/effendivina75.jpg) | **Vina Fadriani Effendi** | [effendivina](https://line.me/ti/p/effendivina) | Science and Medicine |
   
