@@ -66,7 +66,8 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
    
    Template untuk body: (Edit bagian "Coach assistant". Untuk bagian lain, biarkan seperti template, nanti akan diedit lagi sambil coaching berjalan)
    
-        **Coach assistant:** @wisn / @bekicot / @probeadd / @ghaisani / @afnizarnur (hapus selain ascoach Anda)
+        **Coach assistant:** @wisn / @bekicot / @probeadd / @ghaisani / @afnizarnur / @ridhofadilah / @underground-11 / @NoveltyOFD / @effendivina / @kartininurfalah
+        (hapus selain ascoach Anda)
 
         **Sanity checks:**
 
