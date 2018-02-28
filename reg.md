@@ -21,6 +21,7 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
 ![ascoach](telkomuniversity-2018/underground-1175.jpg) | **Iqbal Basyar** | [iqdy.underground](https://line.me/ti/p/iqdy.underground) | Other |
 ![ascoach](telkomuniversity-2018/NoveltyOFD75.jpg) | **Novelty Octaviani Faomasi Daeli** | [noveld](https://line.me/ti/p/noveld) | Social / Communications |
 ![ascoach](telkomuniversity-2018/effendivina75.jpg) | **Vina Fadriani Effendi** | [effendivina](https://line.me/ti/p/effendivina) | Science and Medicine |
+![ascoach](telkomuniversity-2018/kartininurfalah75.jpg) | **Kartini Nurfalah** | [knfalah](https://line.me/ti/p/knfalah) |  |
   
    "Bidang" tidak mengikat, silakan ngobrol dengan ascoach yang paling nyaman buat kamu.
    
@@ -51,6 +52,7 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
 ![ascoach](telkomuniversity-2018/underground-1175.jpg) | **Iqbal Basyar** ![LINE](icons8-line-32.png) [iqdy.underground](https://line.me/ti/p/iqdy.underground) | [@underground-11](https://github.com/underground-11) | Other |
 ![ascoach](telkomuniversity-2018/NoveltyOFD75.jpg) | **Novelty Octaviani Faomasi Daeli** ![LINE](icons8-line-32.png) [noveld](https://line.me/ti/p/noveld) | [@NoveltyOFD](https://github.com/NoveltyOFD) | Social / Communications |
 ![ascoach](telkomuniversity-2018/effendivina75.jpg) | **Vina Fadriani Effendi** ![LINE](icons8-line-32.png) [effendivina](https://line.me/ti/p/effendivina) | [@effendivina](https://github.com/effendivina) | Science and Medicine |
+![ascoach](telkomuniversity-2018/kartininurfalah75.jpg) | **Kartini Nurfalah** ![LINE](icons8-line-32.png) [knfalah](https://line.me/ti/p/knfalah) | [@kartininurfalah](https://github.com/kartininurfalah) |  |
    
    **Bonus:** Klik profil GitHubnya lalu _Follow_ para ascoach di GitHub
 

@@ -44,6 +44,8 @@ Harapannya, dapat dijadikan pedoman dan perbaikan untuk program-program angkatan
 
 **Senin, 26 Feb 2018:** Sayid Muhamad Ridho Fadilah dan Iqbal Basyar bersedia jadi ascoach ke-6 dan ke-7. 32 mahasiswa mendaftar sampai tahap Google Forms, 18 peserta sudah sampai tahap [GitHub Issue](https://github.com/gsocindonesia/coaching2018/issues?q=is%3Aopen+is%3Aissue).
 
+**Selasa, 27 Feb 2018:** Novelty Octaviani Faomasi Daeli dan Vina Fadriani Effendi bersedia jadi ascoach ke-8 dan ke-9. Pak Indra sudah ditagih oleh bagian Keuangan, nama 10 ascoach harus sudah fix besok. Per 20:28, pendaftar coaching ada 45 mahasiswa, dan 28 mahasiswa sudah membuat GitHub issue.
+
 ## Program Design Decisions
 
 **"Coaching":** Agar terkesan agar keren (_English_) dikit, dibanding "pelatihan" atau "lokakarya" atau "pembinaan", namun juga _friendly_ dan kesannya dekat dengan mahasiswa. Istilah "ascoach" juga mudah disebutkan, dibanding "aslatih" atau "asbina" atau "asloka".
