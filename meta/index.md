@@ -46,7 +46,7 @@ Harapannya, dapat dijadikan pedoman dan perbaikan untuk program-program angkatan
 
 **Selasa, 27 Feb 2018:** Pak Indra sudah ditagih oleh bagian Keuangan, nama 10 ascoach harus sudah fix besok. Per 20:28, pendaftar coaching ada 45 mahasiswa, dan 28 mahasiswa sudah membuat GitHub issue. Novelty Octaviani Faomasi Daeli, Vina Fadriani Effendi, dan Kartini Nurfalah bersedia jadi ascoach. 
 
-**Rabu, 28 Feb 2018:** Hendy mengajukan revisi RAB Coaching ke Pak Indra, yang awalnya 4 sesi coaching menjadi 8 sesi coaching (3 Mar, 10 Mar, 17 Mar, 24 Mar, 31 Mar, 7 Apr, 14 Apr, 21 Apr). Proyeksi RAB yang dibutuhkan di luar coach dan ascoach adalah snack untuk 8 sesi x 100 peserta (max). Pak Indra konfirmasi dulu dengan Pak Said.
+**Rabu, 28 Feb 2018:** Hendy mengajukan revisi RAB Coaching ke Pak Indra, yang awalnya 4 sesi coaching menjadi 8 sesi coaching (3 Mar, 10 Mar, 17 Mar, 24 Mar, 31 Mar, 7 Apr, 14 Apr, 21 Apr). Proyeksi RAB yang dibutuhkan di luar coach dan ascoach adalah snack untuk 8 sesi x 100 peserta (max). Pak Indra konfirmasi dulu dengan Pak Said. Mas Wisnu menyerahkan daftar nama dan kelengkapan administrasi 10 ascoach ke Bu Ami (Kemahasiswaan S1IF).
 
 ## Program Design Decisions
 
