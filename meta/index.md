@@ -44,7 +44,9 @@ Harapannya, dapat dijadikan pedoman dan perbaikan untuk program-program angkatan
 
 **Senin, 26 Feb 2018:** Sayid Muhamad Ridho Fadilah dan Iqbal Basyar bersedia jadi ascoach ke-6 dan ke-7. 32 mahasiswa mendaftar sampai tahap Google Forms, 18 peserta sudah sampai tahap [GitHub Issue](https://github.com/gsocindonesia/coaching2018/issues?q=is%3Aopen+is%3Aissue).
 
-**Selasa, 27 Feb 2018:** Novelty Octaviani Faomasi Daeli dan Vina Fadriani Effendi bersedia jadi ascoach ke-8 dan ke-9. Pak Indra sudah ditagih oleh bagian Keuangan, nama 10 ascoach harus sudah fix besok. Per 20:28, pendaftar coaching ada 45 mahasiswa, dan 28 mahasiswa sudah membuat GitHub issue.
+**Selasa, 27 Feb 2018:** Pak Indra sudah ditagih oleh bagian Keuangan, nama 10 ascoach harus sudah fix besok. Per 20:28, pendaftar coaching ada 45 mahasiswa, dan 28 mahasiswa sudah membuat GitHub issue. Novelty Octaviani Faomasi Daeli, Vina Fadriani Effendi, dan Kartini Nurfalah bersedia jadi ascoach. 
+
+**Rabu, 28 Feb 2018:** Hendy mengajukan revisi RAB Coaching ke Pak Indra, yang awalnya 4 sesi coaching menjadi 8 sesi coaching (3 Mar, 10 Mar, 17 Mar, 24 Mar, 31 Mar, 7 Apr, 14 Apr, 21 Apr). Proyeksi RAB yang dibutuhkan di luar coach dan ascoach adalah snack untuk 8 sesi x 100 peserta (max).
 
 ## Program Design Decisions
 
