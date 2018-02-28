@@ -48,6 +48,8 @@ Harapannya, dapat dijadikan pedoman dan perbaikan untuk program-program angkatan
 
 **Rabu, 28 Feb 2018:** Hendy mengajukan revisi RAB Coaching ke Pak Indra, yang awalnya 4 sesi coaching menjadi 8 sesi coaching (3 Mar, 10 Mar, 17 Mar, 24 Mar, 31 Mar, 7 Apr, 14 Apr, 21 Apr). Proyeksi RAB yang dibutuhkan di luar coach dan ascoach adalah snack untuk 8 sesi x 100 peserta (max). Pak Indra konfirmasi dulu dengan Pak Said. Mas Wisnu menyerahkan daftar nama dan kelengkapan administrasi 10 ascoach ke Bu Ami (Kemahasiswaan S1IF).
 
+   * Melakukan pemetaan ketersediaan jadwal masing-masing ascoach termasuk Hendy sendiri untuk next offline session (Sabtu 3 Maret 2018 14:30-15:30 tentatif).
+
 ## Program Design Decisions
 
 **"Coaching":** Agar terkesan agar keren (_English_) dikit, dibanding "pelatihan" atau "lokakarya" atau "pembinaan", namun juga _friendly_ dan kesannya dekat dengan mahasiswa. Istilah "ascoach" juga mudah disebutkan, dibanding "aslatih" atau "asbina" atau "asloka".

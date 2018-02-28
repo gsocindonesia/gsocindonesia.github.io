@@ -13,7 +13,7 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
 | ⭐⭐⭐⭐⭐                       | Ascoach            | ![LINE](icons8-line-32.png) | Bidang                                                | 
 |---------------------------------------|-----------------|-------------------------------------------------------|
 ![ascoach](telkomuniversity-2018/wisn75.jpg) | **Wisnu Adi Nurcahyo** | [wisn98](https://line.me/ti/p/wisn98) | Programming Languages and Development Tools |
-![ascoach](telkomuniversity-2018/bekicot75.jpg) | **Yana Agun Siswanto** | [yana.dev](https://line.me/ti/p/yana.dev) | Web, Cloud |
+![ascoach](telkomuniversity-2018/bekicot75.jpg) | **Yana Agun Siswanto** | [yana.dev](https://line.me/ti/p/yana.dev) | Web |
 ![ascoach](telkomuniversity-2018/probeadd75.jpg) | **Satrio Adi Prabowo** | [satrioadip](https://line.me/ti/p/satrioadip) | Operating Systems |
 ![ascoach](telkomuniversity-2018/ghaisani75.jpg) | **Febry Ghaisani** | [febry.ghaisani](https://line.me/ti/p/febry.ghaisani) | Data and Databases |
 ![ascoach](telkomuniversity-2018/afnizarnur75.jpg) | **Afnizar Nur Ghifari** | [afnizarnur](https://line.me/ti/p/afnizarnur) | Graphics / Video / Audio / Virtual Reality, End User Applications |
@@ -21,7 +21,7 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
 ![ascoach](telkomuniversity-2018/underground-1175.jpg) | **Iqbal Basyar** | [iqdy.underground](https://line.me/ti/p/iqdy.underground) | Other |
 ![ascoach](telkomuniversity-2018/NoveltyOFD75.jpg) | **Novelty Octaviani Faomasi Daeli** | [noveld](https://line.me/ti/p/noveld) | Social / Communications |
 ![ascoach](telkomuniversity-2018/effendivina75.jpg) | **Vina Fadriani Effendi** | [effendivina](https://line.me/ti/p/effendivina) | Science and Medicine |
-![ascoach](telkomuniversity-2018/kartininurfalah75.jpg) | **Kartini Nurfalah** | [knfalah](https://line.me/ti/p/knfalah) |  |
+![ascoach](telkomuniversity-2018/kartininurfalah75.jpg) | **Kartini Nurfalah** | [knfalah](https://line.me/ti/p/knfalah) | Cloud |
   
    "Bidang" tidak mengikat, silakan ngobrol dengan ascoach yang paling nyaman buat kamu.
    
@@ -44,7 +44,7 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
 | ⭐⭐⭐⭐⭐                            | Ascoach            | GitHub                                | Bidang                                                | 
 |---------------------------------------|-----------------|---------------------------------------|-------------------------------------------------------|
 ![ascoach](telkomuniversity-2018/wisn75.jpg) | **Wisnu Adi Nurcahyo** ![LINE](icons8-line-32.png) [wisn98](https://line.me/ti/p/wisn98) | [@wisn](https://github.com/wisn) | Programming Languages and Development Tools |
-![ascoach](telkomuniversity-2018/bekicot75.jpg) | **Yana Agun Siswanto** ![LINE](icons8-line-32.png) [yana.dev](https://line.me/ti/p/yana.dev)  | [@bekicot](https://github.com/bekicot) | Web, Cloud |
+![ascoach](telkomuniversity-2018/bekicot75.jpg) | **Yana Agun Siswanto** ![LINE](icons8-line-32.png) [yana.dev](https://line.me/ti/p/yana.dev)  | [@bekicot](https://github.com/bekicot) | Web |
 ![ascoach](telkomuniversity-2018/probeadd75.jpg) | **Satrio Adi Prabowo**  ![LINE](icons8-line-32.png) [satrioadip](https://line.me/ti/p/satrioadip) | [@probeadd](https://github.com/probeadd) | Operating Systems |
 ![ascoach](telkomuniversity-2018/ghaisani75.jpg) | **Febry Ghaisani** ![LINE](icons8-line-32.png) [febry.ghaisani](https://line.me/ti/p/febry.ghaisani) | [@ghaisani](https://github.com/ghaisani) | Data and Databases |
 ![ascoach](telkomuniversity-2018/afnizarnur75.jpg) | **Afnizar Nur Ghifari** ![LINE](icons8-line-32.png) [afnizarnur](https://line.me/ti/p/afnizarnur) | [@afnizarnur](https://github.com/afnizarnur) | Graphics / Video / Audio / Virtual Reality, End User Applications |
@@ -52,7 +52,7 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
 ![ascoach](telkomuniversity-2018/underground-1175.jpg) | **Iqbal Basyar** ![LINE](icons8-line-32.png) [iqdy.underground](https://line.me/ti/p/iqdy.underground) | [@underground-11](https://github.com/underground-11) | Other |
 ![ascoach](telkomuniversity-2018/NoveltyOFD75.jpg) | **Novelty Octaviani Faomasi Daeli** ![LINE](icons8-line-32.png) [noveld](https://line.me/ti/p/noveld) | [@NoveltyOFD](https://github.com/NoveltyOFD) | Social / Communications |
 ![ascoach](telkomuniversity-2018/effendivina75.jpg) | **Vina Fadriani Effendi** ![LINE](icons8-line-32.png) [effendivina](https://line.me/ti/p/effendivina) | [@effendivina](https://github.com/effendivina) | Science and Medicine |
-![ascoach](telkomuniversity-2018/kartininurfalah75.jpg) | **Kartini Nurfalah** ![LINE](icons8-line-32.png) [knfalah](https://line.me/ti/p/knfalah) | [@kartininurfalah](https://github.com/kartininurfalah) |  |
+![ascoach](telkomuniversity-2018/kartininurfalah75.jpg) | **Kartini Nurfalah** ![LINE](icons8-line-32.png) [knfalah](https://line.me/ti/p/knfalah) | [@kartininurfalah](https://github.com/kartininurfalah) | Cloud |
    
    **Bonus:** Klik profil GitHubnya lalu _Follow_ para ascoach di GitHub
 
