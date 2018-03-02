@@ -74,7 +74,8 @@ Agenda:
 
 3. Accept GitHub invite dari Hendy, ini membuatmu bisa melakukan edit issues dan write access pada umumnya
 4. Ensure semua peserta sudah melengkapi profil GitHub
-5. Tugas 1:
+5. How GitHub (Issues) works
+6. Tugas 1:
 
    a. Memilih organisasi (3)
    b. Memilih ideas (3, satu untuk masing-masing organisasi)
