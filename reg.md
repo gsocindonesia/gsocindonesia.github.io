@@ -109,6 +109,8 @@ Peserta tahun KP yang diterima seleksi GSoC maka proyek GSoC-nya dianggap sebaga
 
    Klik **Submit New Issue**
 
+6. **[Konfirmasi kehadiran Coaching](http://bit.ly/sesicoaching2018)** sesi 1 (Sabtu, 3 Maret 2018 14:30-15:30 di Gedung E Lt. 3)
+
 _Bonus:_ Boleh juga lho nambah teman-teman lainnya dari seluruh Indonesia di [Facebook Group Google Summer of Code Indonesia](https://www.facebook.com/groups/gsoc.indonesia) !
 
 _Alhamdulillah... That's it!_ 🎉 Perkembangan selanjutnya akan kamu dapatkan melalui:
