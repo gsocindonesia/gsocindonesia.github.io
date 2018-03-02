@@ -33,6 +33,8 @@ Semua ascoach:
 
 8. Now you're ready to assist others. 👌🏾
 
+Ascoach juga perlu konfirmasi kehadiran [Sesi 1 Coaching](http://bit.ly/sesicoaching2018)
+
 Tahap selanjutnya, pastikan semua peserta Anda sudah masuk ke project board Coaching:
 
 1. Buka Google Sheets Coaching Responses, sudah di-share ke semua ascoach via [Google Drive](https://drive.google.com/)
