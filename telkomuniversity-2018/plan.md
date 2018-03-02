@@ -66,13 +66,16 @@ Agenda:
 
 1. Pemerataan alokasi ascoach & peserta
 2. Ensure semua peserta sudah bikin GitHub Issue
+
    * Assigned ke ascoach yang baru
    * Labels sesuai bidang, tools & bahasa pemrograman yang dipakai
    * Masukkan ke Project Board "Coaching"
    * Kolom Project Board sesuai dengan progress saat ini
+
 3. Accept GitHub invite dari Hendy, ini membuatmu bisa melakukan edit issues dan write access pada umumnya
 4. Ensure semua peserta sudah melengkapi profil GitHub
 5. Tugas 1:
+
    a. Memilih organisasi (3)
    b. Memilih ideas (3, satu untuk masing-masing organisasi)
    c. Menghubungi semua mentor
