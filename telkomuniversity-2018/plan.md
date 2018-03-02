@@ -100,8 +100,14 @@ Agenda:
 1. Evaluasi Tugas 1
 2. Proposal writing template (ambil dari Coala)
 3. Newcomer contribution guide
-4. Tugas 2:
-   * Draft proposal v1
+4. Mini tasks - [GCI organizations](https://gci-leaders.netlify.com)
+5. Tugas 2:
+
+   a. melengkapi Tugas 1 yang masih tertinggal
+   b. Draft proposal v1
+   c. Followup mentor
+   d. Newcomer contribution
+   e. Mini tasks
 
 Administrasi:
 
@@ -126,10 +132,13 @@ Agenda:
 1. Evaluasi Tugas 2
 2. More contribution guide
 3. Tugas 3:
-   * Daftar Google Summer of Code
-   * Siapin KSM
-   * Submit proposal v1
-   * Draft proposal v2
+
+   a. Daftar Google Summer of Code
+   b. Siapin KSM
+   c. Submit proposal v1
+   d. Draft proposal v2
+   e. Followup mentor
+   f. More contribution
 
 ## Sesi 4 - Sabtu, 24 Maret 2017 14:30-15:30 - Venue TBD
 
@@ -150,4 +159,7 @@ Agenda:
 1. Evaluasi Tugas 3
 2. More contribution guide
 3. Tugas 4:
-   * Draft proposal v3
+
+   a. Draft proposal v3
+   b. Followup mentor
+   c. More contribution
