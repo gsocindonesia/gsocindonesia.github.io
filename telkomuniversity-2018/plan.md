@@ -88,11 +88,9 @@ Coaches: Hendy Irawan
 
 Petugas:
 
-* Konsumsi & Keuangan: S.M. Ridho Fadilah, Novelty O.F.D.
-* Perlengkapan (proyektor, mic, kursi) & Checkin: Kartini Nurfalah
-* Foto-foto: Afnizar Nur Ghifari
-* Artikel Indonesian: Vina Fadriani Effendi
-* Artikel English: Iqbal Basyar
+* Konsumsi & Keuangan: ...
+* Perlengkapan (proyektor, mic, kursi) & Checkin: ...
+* Foto-foto: ...
 
 Budget: IDR 600000 (lunch: coaches + ascoaches + CS; snacks: peserta)
 
@@ -120,11 +118,9 @@ Coaches: Hendy Irawan, Ade Romadhony
 
 Petugas:
 
-* Konsumsi & Keuangan: S.M. Ridho Fadilah, Novelty O.F.D.
-* Perlengkapan (proyektor, mic, kursi) & Checkin: Kartini Nurfalah
-* Foto-foto: Afnizar Nur Ghifari
-* Artikel Indonesian: Vina Fadriani Effendi
-* Artikel English: Iqbal Basyar
+* Konsumsi & Keuangan: ...
+* Perlengkapan (proyektor, mic, kursi) & Checkin: ...
+* Foto-foto: ...
 
 Budget: IDR 600000 (lunch: coaches + ascoaches + CS; snacks: peserta)
 
@@ -147,11 +143,9 @@ Coaches: Hendy Irawan, Ade Romadhony
 
 Petugas:
 
-* Konsumsi & Keuangan: S.M. Ridho Fadilah, Novelty O.F.D.
-* Perlengkapan (proyektor, mic, kursi) & Checkin: Kartini Nurfalah
-* Foto-foto: Afnizar Nur Ghifari
-* Artikel Indonesian: Vina Fadriani Effendi
-* Artikel English: Iqbal Basyar
+* Konsumsi & Keuangan: ...
+* Perlengkapan (proyektor, mic, kursi) & Checkin: ...
+* Foto-foto: ...
 
 Budget: IDR 600000 (lunch: coaches + ascoaches + CS; snacks: peserta)
 
