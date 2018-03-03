@@ -60,7 +60,7 @@ Petugas:
 * Artikel Indonesian: Vina Fadriani Effendi
 * Artikel English: Iqbal Basyar
 
-Budget: IDR 600000 (lunch: coaches + ascoaches + CS; snacks: peserta)
+Budget: IDR 700000 (lunch: coaches + ascoaches + CS; snacks: peserta)
 
 Agenda:
 
@@ -147,7 +147,7 @@ Petugas:
 * Perlengkapan (proyektor, mic, kursi) & Checkin: ...
 * Foto-foto: ...
 
-Budget: IDR 600000 (lunch: coaches + ascoaches + CS; snacks: peserta)
+Budget: IDR 500000 (lunch: coaches + ascoaches + CS; snacks: peserta)
 
 Agenda:
 
