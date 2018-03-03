@@ -78,8 +78,11 @@ Agenda:
 6. Tugas 1:
 
    a. Memilih organisasi (3)
+
    b. Memilih ideas (3, satu untuk masing-masing organisasi)
+
    c. Menghubungi semua mentor
+
    d. Melakukan "newcomer guide" untuk masing-masing organisasi
 
 ## Sesi 2 - Sabtu, 10 Maret 2017 14:30-15:30 - Venue TBD
