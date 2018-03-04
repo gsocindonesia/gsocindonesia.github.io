@@ -50,6 +50,12 @@ Harapannya, dapat dijadikan pedoman dan perbaikan untuk program-program angkatan
 
    * Melakukan pemetaan ketersediaan jadwal masing-masing ascoach termasuk Hendy sendiri untuk next offline session (Sabtu 3 Maret 2018 14:30-15:30 tentatif).
 
+## Timeline: Coaching Pre-Acceptance
+
+**Sabtu, 3 Maret 2018:** 67 peserta mendaftar Eventbrite, yang hadir 54 peserta. Sampai malam, pendaftar coaching sebanyak 92 mahasiswa. Rasio ascoach:peserta ~ 1:9.
+
+**Minggu, 4 Maret 2018:** Pendaftar coaching sebanyak 99 mahasiswa.
+
 ## Program Design Decisions
 
 **"Coaching":** Agar terkesan agar keren (_English_) dikit, dibanding "pelatihan" atau "lokakarya" atau "pembinaan", namun juga _friendly_ dan kesannya dekat dengan mahasiswa. Istilah "ascoach" juga mudah disebutkan, dibanding "aslatih" atau "asbina" atau "asloka".
