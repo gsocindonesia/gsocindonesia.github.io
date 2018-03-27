@@ -56,6 +56,24 @@ Harapannya, dapat dijadikan pedoman dan perbaikan untuk program-program angkatan
 
 **Minggu, 4 Maret 2018:** Pendaftar coaching sebanyak 99 mahasiswa.
 
+**Selasa, 27 Maret 2018:** Total 15 mahasiswa peserta coaching yang sudah submit proposal Google Summer of Code sebelum deadline pukul 23:00 WIB:
+
+1. [Wisnu Adi Nurcahyo (@wisn)](https://github.com/wisn) - [2 proposals](https://github.com/gsocindonesia/coaching2018/issues/3)
+2. [Ganesha Danu Enastika (@BlinfoldKing)](https://github.com/BlinfoldKing) - [2 proposals](https://github.com/gsocindonesia/coaching2018/issues/13)
+3. [William Sungkar (@rokysungkar)](https://github.com/rokysungkar) - [2 proposals](https://github.com/gsocindonesia/coaching2018/issues/37)
+4. [Dwiferdio Seagal Putra (@seagalputra)](https://github.com/seagalputra) - [2 proposals](https://github.com/gsocindonesia/coaching2018/issues/15)
+5. [Yana Agun Siswanto (@bekicot)](https://github.com/bekicot) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/8)
+6. [Ilmam Rafidan Hutama (@ilmamrh)](https://github.com/ilmamrh) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/11)
+7. [Novelty Octaviani Faomasi Daeli (@NoveltyOFD)](https://github.com/NoveltyOFD) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/24)
+8. [Ahmad Alfi Adz-Dzikri (@serabiasin)](https://github.com/serabiasin) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/10)
+9. [Muhammad Arief Ismirianda (@mariefismi02)](https://github.com/mariefismi02) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/63)
+10. [Kartini Nurfalah (@kartininurfalah)](https://github.com/kartininurfalah) - [2 proposals](https://github.com/gsocindonesia/coaching2018/issues/40)
+11. [Satrio Adi Prabowo (@probeadd)](https://github.com/probeadd) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/4)
+12. [Iqbal Basyar (@underground-11)](https://github.com/underground-11) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/55)
+13. [Febry Ghaisani (@ghaisani)](https://github.com/ghaisani) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/27)
+14. [Sayid Muhamad Ridho Fadilah (@ridhofadilah)](https://github.com/ridhofadilah) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/21)
+15. [Vina Fadriani Effendi (@effendivina)](https://github.com/effendivina) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/39)
+
 ## Program Design Decisions
 
 **"Coaching":** Agar terkesan agar keren (_English_) dikit, dibanding "pelatihan" atau "lokakarya" atau "pembinaan", namun juga _friendly_ dan kesannya dekat dengan mahasiswa. Istilah "ascoach" juga mudah disebutkan, dibanding "aslatih" atau "asbina" atau "asloka".
