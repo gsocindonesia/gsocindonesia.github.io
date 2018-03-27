@@ -63,7 +63,7 @@ Harapannya, dapat dijadikan pedoman dan perbaikan untuk program-program angkatan
 3. [**Ravi Mahfunda** (@ravimahfunda)](https://github.com/ravimahfunda) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/31)
 4. [**William Sungkar** (@rokysungkar)](https://github.com/rokysungkar) - [2 proposals](https://github.com/gsocindonesia/coaching2018/issues/37)
 5. [**Dwiferdio Seagal Putra** (@seagalputra)](https://github.com/seagalputra) - [2 proposals](https://github.com/gsocindonesia/coaching2018/issues/15)
-6. [**Yana Agun Siswanto** (@bekicot)](https://github.com/bekicot) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/8)
+6. [**Yana Agun Siswanto** (@bekicot)](https://github.com/bekicot) - [3 proposals](https://github.com/gsocindonesia/coaching2018/issues/8)
 7. [**Ilmam Rafidan Hutama** (@ilmamrh)](https://github.com/ilmamrh) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/11)
 8. [**Novelty Octaviani Faomasi Daeli** (@NoveltyOFD)](https://github.com/NoveltyOFD) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/24)
 9. [**Ahmad Alfi Adz-Dzikri** (@serabiasin)](https://github.com/serabiasin) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/10)
