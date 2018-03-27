@@ -56,7 +56,7 @@ Harapannya, dapat dijadikan pedoman dan perbaikan untuk program-program angkatan
 
 **Minggu, 4 Maret 2018:** Pendaftar coaching sebanyak 99 mahasiswa.
 
-**Selasa, 27 Maret 2018:** Total 15 mahasiswa peserta coaching yang submit proposal Google Summer of Code sebelum deadline pukul 23:00 WIB:
+**Selasa, 27 Maret 2018:** Total 16 mahasiswa Telkom University peserta coaching yang submit proposal Google Summer of Code sebelum deadline pukul 23:00 WIB:
 
 1. [Wisnu Adi Nurcahyo (@wisn)](https://github.com/wisn) - [2 proposals](https://github.com/gsocindonesia/coaching2018/issues/3)
 2. [Ganesha Danu Enastika (@BlinfoldKing)](https://github.com/BlinfoldKing) - [2 proposals](https://github.com/gsocindonesia/coaching2018/issues/13)
