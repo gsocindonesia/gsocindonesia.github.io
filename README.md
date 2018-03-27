@@ -1,6 +1,6 @@
 🎉 Coaching Google Summer of Code & Kerja Praktik 2018 🎉
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S6IP_6HG2QE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Google Summer of Code](http://img.youtube.com/vi/YN7uGCg5vLg/0.jpg)](http://www.youtube.com/watch?v=YN7uGCg5vLg "So You Want to Be a Google Summer of Code Student ?")
 
 🤔 Apa sih Google Summer of Code? Mau tau benefitnya buat kamu?
 
@@ -29,7 +29,7 @@ ______________________________
 
 ## Ingin Tahu Lebih Lanjut?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YN7uGCg5vLg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![So You want to Be a Google Summer of Code Student ?](http://img.youtube.com/vi/YN7uGCg5vLg/0.jpg)](http://www.youtube.com/watch?v=YN7uGCg5vLg "So You want to Be a Google Summer of Code Student ?")
 
 > **[Pendaftaran Coaching (paling lambat 3 Maret 2018)](reg)**
 
