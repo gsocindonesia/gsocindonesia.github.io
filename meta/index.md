@@ -74,6 +74,7 @@ Harapannya, dapat dijadikan pedoman dan perbaikan untuk program-program angkatan
 14. [**Febry Ghaisani** (@ghaisani)](https://github.com/ghaisani) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/27)
 15. [**Sayid Muhamad Ridho Fadilah** (@ridhofadilah)](https://github.com/ridhofadilah) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/21)
 16. [**Vina Fadriani Effendi** (@effendivina)](https://github.com/effendivina) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/39)
+17. [**Muhammad Valian Masdani** (@vmasdani)](https://github.com/vmasdani) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/71)
 
 ## Program Design Decisions
 
