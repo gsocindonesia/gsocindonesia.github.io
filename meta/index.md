@@ -56,7 +56,7 @@ Harapannya, dapat dijadikan pedoman dan perbaikan untuk program-program angkatan
 
 **Minggu, 4 Maret 2018:** Pendaftar coaching sebanyak 99 mahasiswa.
 
-**Selasa, 27 Maret 2018:** Total 17 mahasiswa Telkom University peserta coaching yang submit proposal Google Summer of Code sebelum deadline pukul 23:00 WIB:
+**Selasa, 27 Maret 2018:** Total 18 mahasiswa Telkom University peserta coaching yang submit proposal Google Summer of Code sebelum deadline pukul 23:00 WIB:
 
 1. [**Wisnu Adi Nurcahyo** (@wisn)](https://github.com/wisn) - [2 proposals](https://github.com/gsocindonesia/coaching2018/issues/3)
 2. [**Ganesha Danu Enastika** (@BlinfoldKing)](https://github.com/BlinfoldKing) - [2 proposals](https://github.com/gsocindonesia/coaching2018/issues/13)
@@ -68,13 +68,14 @@ Harapannya, dapat dijadikan pedoman dan perbaikan untuk program-program angkatan
 8. [**Novelty Octaviani Faomasi Daeli** (@NoveltyOFD)](https://github.com/NoveltyOFD) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/24)
 9. [**Ahmad Alfi Adz-Dzikri** (@serabiasin)](https://github.com/serabiasin) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/10)
 10. [**Muhammad Arief Ismirianda** (@mariefismi02)](https://github.com/mariefismi02) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/63)
-11. [**Kartini Nurfalah** (@kartininurfalah)](https://github.com/kartininurfalah) - [2 proposals](https://github.com/gsocindonesia/coaching2018/issues/40)
-12. [**Satrio Adi Prabowo** (@probeadd)](https://github.com/probeadd) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/4)
-13. [**Iqbal Basyar** (@underground-11)](https://github.com/underground-11) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/55)
-14. [**Febry Ghaisani** (@ghaisani)](https://github.com/ghaisani) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/27)
-15. [**Sayid Muhamad Ridho Fadilah** (@ridhofadilah)](https://github.com/ridhofadilah) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/21)
-16. [**Vina Fadriani Effendi** (@effendivina)](https://github.com/effendivina) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/39)
-17. [**Muhammad Valian Masdani** (@vmasdani)](https://github.com/vmasdani) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/71)
+11. [**Afnizar Nur Ghifari** (@afnizarnur)](https://github.com/afnizarnur) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/60)
+12. [**Kartini Nurfalah** (@kartininurfalah)](https://github.com/kartininurfalah) - [2 proposals](https://github.com/gsocindonesia/coaching2018/issues/40)
+13. [**Satrio Adi Prabowo** (@probeadd)](https://github.com/probeadd) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/4)
+14. [**Iqbal Basyar** (@underground-11)](https://github.com/underground-11) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/55)
+15. [**Febry Ghaisani** (@ghaisani)](https://github.com/ghaisani) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/27)
+16. [**Sayid Muhamad Ridho Fadilah** (@ridhofadilah)](https://github.com/ridhofadilah) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/21)
+17. [**Vina Fadriani Effendi** (@effendivina)](https://github.com/effendivina) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/39)
+18. [**Muhammad Valian Masdani** (@vmasdani)](https://github.com/vmasdani) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/71)
 
 ## Program Design Decisions
 
