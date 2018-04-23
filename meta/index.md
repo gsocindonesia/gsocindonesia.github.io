@@ -77,6 +77,11 @@ Harapannya, dapat dijadikan pedoman dan perbaikan untuk program-program angkatan
 17. [**Vina Fadriani Effendi** (@effendivina)](https://github.com/effendivina) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/39)
 18. [**Muhammad Valian Masdani** (@vmasdani)](https://github.com/vmasdani) - [1 proposal](https://github.com/gsocindonesia/coaching2018/issues/71)
 
+**Senin, 23 April 2018:** Sebanyak 2 mahasiswa Telkom University peserta coaching lulus seleksi Google Summer of Code 2018, dari total [4 mahasiswa dari Indonesia yang lulus seleksi GSoC 2018](https://docs.google.com/spreadsheets/d/1vFd0_C2HrX5F7-YBhqem6cGB1l418IjgceWW2YY8CMA/edit?usp=sharing):
+
+1. [**Wisnu Adi Nurcahyo** (@wisn)](https://github.com/wisn) - [Haskell.org: Format-Preserving YAML](https://summerofcode.withgoogle.com/projects/#6279427311271936)
+2. [**Yana Agun Siswanto** (@bekicot)](https://github.com/bekicot) - [coala: Meta Review Tasks Lists](https://summerofcode.withgoogle.com/projects/#6032346365558784)
+
 ## Program Design Decisions
 
 **"Coaching":** Agar terkesan agar keren (_English_) dikit, dibanding "pelatihan" atau "lokakarya" atau "pembinaan", namun juga _friendly_ dan kesannya dekat dengan mahasiswa. Istilah "ascoach" juga mudah disebutkan, dibanding "aslatih" atau "asbina" atau "asloka".
