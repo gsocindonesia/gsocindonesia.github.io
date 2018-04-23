@@ -84,8 +84,8 @@ Harapannya, dapat dijadikan pedoman dan perbaikan untuk program-program angkatan
 
 2 mahasiswa/i dari Indonesia lainnya yang lulus seleksi GSoC 2018:
 
-* [**Fienny Angelina**](https://www.linkedin.com/in/fienny-angelina-68576697/) - [Digital Impact Alliance: Implement Machine Learning in Tasking Manager Workflow](https://summerofcode.withgoogle.com/projects/#6656841455501312)
-* [**Muhammad Iqbal C. Rochman**](https://www.linkedin.com/in/muhiqbalcr/) - [The ns-3 Network Simulator Project: Merging and Improvement of LTE and Wi-Fi Coexistence Module](https://summerofcode.withgoogle.com/projects/#4870409804054528)
+* [**Fienny Angelina**](https://www.linkedin.com/in/fienny-angelina-68576697/), Nanyang Technological University - [Digital Impact Alliance: Implement Machine Learning in Tasking Manager Workflow](https://summerofcode.withgoogle.com/projects/#6656841455501312)
+* [**Muhammad Iqbal C. Rochman**](https://www.linkedin.com/in/muhiqbalcr/), University of Chicago - [The ns-3 Network Simulator Project: Merging and Improvement of LTE and Wi-Fi Coexistence Module](https://summerofcode.withgoogle.com/projects/#4870409804054528)
 
 ## Program Design Decisions
 
