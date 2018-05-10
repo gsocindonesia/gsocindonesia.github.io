@@ -10,6 +10,10 @@
 
 [![So You want to Be a Google Summer of Code Student ?](http://img.youtube.com/vi/YN7uGCg5vLg/0.jpg)](http://www.youtube.com/watch?v=YN7uGCg5vLg "So You want to Be a Google Summer of Code Student ?")
 
+## Tips
+
+* [Google Summer of Code: Writing a good proposal - OWASP OWTF](https://medium.com/@owtf/google-summer-of-code-writing-a-good-proposal-141b1376f076)
+
 ## Pertanyaan & Jawaban (FAQ)
 
 Lihat halaman [**Pertanyaan & Jawaban (FAQ)**](faq).
