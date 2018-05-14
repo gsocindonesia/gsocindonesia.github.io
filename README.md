@@ -18,6 +18,12 @@
 
 Lihat halaman [**Pertanyaan & Jawaban (FAQ)**](faq).
 
+## Tips
+
+### Django
+
+* [Django easy pickings](https://code.djangoproject.com/query?status=!closed&easy=1&stage=Accepted&desc=1&order=changetime)
+
 ## Arsip
 
 * [Coaching Google Summer of Code & KP 2018 - Telkom University](telkomuniversity-2018/coaching)
